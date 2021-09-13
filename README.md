@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning micro-services, AWS and Swift(Hell on earth). 
 
 <div style="flex">
-  <img height="30em" src="https://img.shields.io/static/v1?label=python&message=Python&color=3776AB&style=plastic&logo=Python"
+  <img height="30em" src="https://img.shields.io/static/v1?label=&message=python&color=646464&style=plastic&logo=Python&logoColor=3776AB"/>
+  <img height="30em" src="https://img.shields.io/static/v1?label=&message=java&color=646464&style=plastic&logo=Java&logoColor=f89820"/>
 </div>
 
 Glad to see you arround!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=andersonhn)
